@@ -4,3 +4,4 @@
 
 ## study 정리 Blog
 - [Disease detection with Computer Vision](https://pred0771.tistory.com/210)
+- [Evaluating Models](https://pred0771.tistory.com/211)
